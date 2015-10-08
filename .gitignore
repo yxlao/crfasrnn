@@ -1,0 +1,3 @@
+*.swp
+caffe-crfrnn/.build_release
+caffe-crfrnn/build
